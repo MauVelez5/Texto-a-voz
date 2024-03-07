@@ -81,7 +81,7 @@ if result:
     elif in_lang == "Japonés":
         input_language = "ja"
     elif in_lang == "Francés":
-        input_language = "fr"
+        output_language = "fr"
    
     
     out_lang = st.selectbox(
