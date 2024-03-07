@@ -99,8 +99,7 @@ if result:
         output_language = "zh-cn"
     elif out_lang == "Japonés":
         output_language = "ja"
-     elif out_lang == "Francés":
-        output_language = "fr"
+    
      elif out_lang == "Alemán":
         output_language = "de"
          
